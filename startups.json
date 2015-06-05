@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Lou Chan",
+        "country": "Hong Kong",
+        "startupName": "ChanneLab",
+        "elevatorPitch": "ChanneLab is a one stop, hassle-free e-commerce solution that integrates with all online marketplaces for offline retailers, allowing them to repeat e-commerce success on an exponential rate by streamlining all the repetitive process including inventory updates, fulfillment etc.  ",
+        "image": "channelab.png",
+        "webUrl": ""
+    },
+    {
+        "name": "Indermohan Singh",
+        "country": "India",
+        "startupName": "Ragakosh",
+        "elevatorPitch": "Ragakosh is a platform for Learning Indian Classical Music. Main Aim of Ragakosh is to provide a platform for Leaners and music enthuasiats where they can learn Ragas, Alankars and Notations.",
+        "image": "ragakosh.jpg",
+        "webUrl": "http://ragakosh.com"
+    },
+    {
+        "name": "Youssef Farag",
+        "country": "Egypt",
+        "startupName": "DCV Egypt",
+        "elevatorPitch": "DCV is datacenter virtualization technology advisor to save energy consumed by the physical devices, What I can do for those companies is first study their IT needs, And make sure there is no unneeded wasted capacity for their datacenters, Secondly is to design virtual datacenters which meet those requirements without consuming too much energy and also do cost saving.",
+        "image": "dcv.jpg",
+        "webUrl": ""
+    },
+    {
+        "name": "Yash Shah",
+        "country": "India",
+        "startupName": "Gridle.io",
+        "elevatorPitch": "Productivity platform for teams",
+        "image" : "dummy.jpg",
+        "webUrl": "https://gridle.io"
+    },
+    {
+        "name": "Syed Ommer Amer",
+        "country": "Pakistan",
+        "startupName": "Daastan",
+        "elevatorPitch": "One-stop-shop for all your writing needs. We connect businesses with quality writers and our mission is to revive and revamp the writing industries of the developing south asian countries!",
+        "image": "daastan.png",
+        "webUrl": "http://daastan.com"
+    },
+    {
+        "name": "Philippos Beveratos",
+        "country": "Greece",
+        "startupName": "YOOR",
+        "elevatorPitch": "Social network for recreational boating that allows to determine the available choices for your journey based on your current position.",
+        "image": "yoor.jpg",
+        "webUrl": "www.yoor.eu"
+    },
+    {
+        "name": "Arvind Nedumaran",
+        "country": "India",
+        "startupName": "Mailage",
+        "elevatorPitch": "Mailage is a workflow automation platform. You can automate complex workflows in your team; build and manage sequences with all your favourite applications. ",
+        "image": "mailage.png",
+        "webUrl": "http://mailage.co/"
+    },
+    {
+        "name": "Jorge Sanchez",
+        "country": "UAE",
+        "startupName": "Simarks Software",
+        "elevatorPitch": "Simarks Software is a Cybersecurity Software company, focused on striking down zero-day attacks, advanced threats, cyber threats or any form of malware that make use of the granted privileges to get unrestricted access to the companies wide assets. Simarks Software is the only vendor, who deploys software in the easiest, safest and unique way, by using our privileges management patented technology combined with our Software Distribution capabilities for Microsoft Environments.",
+        "image": "simarks.jpg",
+        "webUrl": "http://simarks.com"
+    },
+    {
+        "name": "Jacob Fohtung ",
+        "country": "Cameroon ",
+        "startupName": "NetInHealth ",
+        "elevatorPitch": "an online collaborative platform for students to tackle health challenges ",
+        "image": "netinhealth.gif",
+        "webUrl": "http://netinhealth.com "
+    },
+    {
+        "name": "Samip Jain",
+        "country": "India",
+        "startupName": "Pikachoo",
+        "elevatorPitch": "Pikachoo is an online marketplace, the one stop shop for unique, attractive and at the same time affordable gift items.You must be wondering what makes our venture stand out from the rest. The answer is our motive. This company aims to provide a new platform for creative people. We are faced with a number of situations where it is difficult to showcase to showcase our talents just because we  didn't have a platform. Pikachoo aims to filter out those gifted  individuals who wants to create their our brand value and guides them in their endeavour by helping them reach out to the general public. Pikachoo has in store a wide array of items ranging from handmade, vintage to natural products. Help us help the individual hidden  talents that we seek to bring to your attention. Help us help you. Pikachoo - Happiness at your doorstep.",
+        "image": "pikachoo.png",
+        "webUrl": "http://pikachoo.in"
+    },
+    {
+        "name": "Emmanuel Adegboye",
+        "country": "Nigeria",
+        "startupName": "Bus Stop",
+        "elevatorPitch": "The basic concept for Bus-Stop is centred on answering the question “What is the closest bus-stop to …… (add place, business, address, whatever has a physical location)?” This would provide bus-stop to bus-stop direction using available public transportation options for the majority of people in sub-Saharan Africa who at some point will have to rely on public transportation to get to their destinations.",
+        "image" : "dummy.jpg",
+        "webUrl": "http://century21media.com"
+    },
+    {
+        "name": "Hendriyadi",
+        "country": "Indonesia",
+        "startupName": "Abon Sehat",
+        "elevatorPitch": "Abon Sehat (healthy shredded fish) not only produces an Indonesian National snack, but is a campaign for healthier lifestyles, because the shredded fish does not contain MSG. In addition, the project employs fishermen's wives in coastal areas in South Sulawesi, which helps increase income and to reduce poverty in the area. ",
+        "image": "sahabatpulau.png",
+        "webUrl": "http://desapreneur.blogspot.com"
+    },
+    {
+        "name": "Jewel Watts",
+        "country": "USA",
+        "startupName": "Tailor Made Kids",
+        "elevatorPitch": "We will use recycled fabric and materials to make custom kids clothing and give 1-for-1 to needy children around the world.",
+        "image": "tailormadekids.jpg",
+        "webUrl": "http://tailormadekids.com "
+    },
+    {
+        "name": "Abel Ramirez A",
+        "country": "Colombia",
+        "startupName": "Detekta",
+        "elevatorPitch": "Detekta helps companies and individuals know more (background check) about their business relationships worldwide. The FATF issues worldwide regulations, recommendations, and best practices that are strengthened everyday.\u000bDetekta’s covers money laundering, drug trafficking, corruption, arms trade, and PEPs among others.  DETEKTA is an online service that charges per search and delivers a documetn with timestamp that certificates its customers due dilligence.",
+        "image": "detekta.jpg",
+        "webUrl": "http://detekta.co"
+    },
+    {
+        "name": "Miguel Pardo",
+        "country": "Spain",
+        "startupName": "oncometrik",
+        "elevatorPitch": "Big data tool that empowers physicians to make the right decisions for every cancer patient, every time, based on objective data.",
+        "image": "oncometrik.png",
+        "webUrl": "http://oncometrik.com/"
+    },
+    {
+        "name": "Leandro Sehnem Bortolotto",
+        "country": "Brazil",
+        "startupName": "Zerofila",
+        "elevatorPitch": "Zerofila is a free app to payment and checkout for bars, restaurants and night clubs, created to eliminate lines and optimize services. Zerofila integrates directly (and easily) with any automation software, allowing users to quickly leave without stay wainting for a waiter or getting in the cashier line, and paying nothing else for it.",
+        "image": "zerofila.jpg",
+        "webUrl": "https://www.zerofila.com.br"
+    }
+]
