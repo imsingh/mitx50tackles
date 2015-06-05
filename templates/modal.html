@@ -1,0 +1,31 @@
+<div class="modal-header">
+    <h3 class="modal-title">{{startup.startupName}}</h3>
+</div>
+<div class="modal-body">
+    <div class="list-group">
+	    <img ng-src="img/startups/{{startup.image}}">
+
+	   <a class="list-group-item">
+	    <h4 class="list-group-item-heading">Founder</h4>
+	    <p class="list-group-item-text">{{startup.name}}</p>
+	  </a>
+
+	  <a class="list-group-item">
+	    <h4 class="list-group-item-heading">What we do!</h4>
+	    <p class="list-group-item-text">{{startup.elevatorPitch}}</p>
+	  </a>
+
+	  <a class="list-group-item">
+	    <h4 class="list-group-item-heading">Country</h4>
+	    <p class="list-group-item-text">{{startup.country}}</p>
+	  </a>
+
+	  <a class="list-group-item active" target="_new" ng-href="{{startup.webUrl}}">
+	    <h4 class="list-group-item-heading ">Explore</h4>
+	  </a>
+
+	</div>
+</div>
+<div class="modal-footer">
+    <button class="btn btn-default" ng-click="cancel()">Done</button>
+</div>
