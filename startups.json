@@ -11,9 +11,9 @@
         "name": "Indermohan Singh",
         "country": "India",
         "startupName": "Ragakosh",
-        "elevatorPitch": "Ragakosh is a platform for Learning Indian Classical Music. Main Aim of Ragakosh is to provide a platform for Leaners and music enthuasiats where they can learn Ragas, Alankars and Notations.",
+        "elevatorPitch": "A Simple App for Searching the Structure of Indian Classical Music Ragas.",
         "image": "ragakosh.jpg",
-        "webUrl": "http://ragakosh.com"
+        "webUrl": "https://play.google.com/store/apps/details?id=com.ragakosh.app"
     },
     {
         "name": "Youssef Farag",
@@ -28,7 +28,7 @@
         "country": "India",
         "startupName": "Gridle.io",
         "elevatorPitch": "Productivity platform for teams",
-        "image" : "dummy.jpg",
+        "image" : "gridle.jpg",
         "webUrl": "https://gridle.io"
     },
     {
@@ -36,7 +36,7 @@
         "country": "Pakistan",
         "startupName": "Daastan",
         "elevatorPitch": "One-stop-shop for all your writing needs. We connect businesses with quality writers and our mission is to revive and revamp the writing industries of the developing south asian countries!",
-        "image": "daastan.png",
+        "image": "daastan.jpg",
         "webUrl": "http://daastan.com"
     },
     {
@@ -45,7 +45,7 @@
         "startupName": "YOOR",
         "elevatorPitch": "Social network for recreational boating that allows to determine the available choices for your journey based on your current position.",
         "image": "yoor.jpg",
-        "webUrl": "www.yoor.eu"
+        "webUrl": "http://yoor.eu"
     },
     {
         "name": "Arvind Nedumaran",
@@ -76,7 +76,7 @@
         "country": "India",
         "startupName": "Pikachoo",
         "elevatorPitch": "Pikachoo is an online marketplace, the one stop shop for unique, attractive and at the same time affordable gift items.You must be wondering what makes our venture stand out from the rest. The answer is our motive. This company aims to provide a new platform for creative people. We are faced with a number of situations where it is difficult to showcase to showcase our talents just because we  didn't have a platform. Pikachoo aims to filter out those gifted  individuals who wants to create their our brand value and guides them in their endeavour by helping them reach out to the general public. Pikachoo has in store a wide array of items ranging from handmade, vintage to natural products. Help us help the individual hidden  talents that we seek to bring to your attention. Help us help you. Pikachoo - Happiness at your doorstep.",
-        "image": "pikachoo.png",
+        "image": "pikachoo.jpg",
         "webUrl": "http://pikachoo.in"
     },
     {
@@ -116,7 +116,7 @@
         "country": "Spain",
         "startupName": "oncometrik",
         "elevatorPitch": "Big data tool that empowers physicians to make the right decisions for every cancer patient, every time, based on objective data.",
-        "image": "oncometrik.png",
+        "image": "oncometrik.jpg",
         "webUrl": "http://oncometrik.com/"
     },
     {
@@ -124,7 +124,23 @@
         "country": "Brazil",
         "startupName": "Zerofila",
         "elevatorPitch": "Zerofila is a free app to payment and checkout for bars, restaurants and night clubs, created to eliminate lines and optimize services. Zerofila integrates directly (and easily) with any automation software, allowing users to quickly leave without stay wainting for a waiter or getting in the cashier line, and paying nothing else for it.",
-        "image": "zerofila.jpg",
-        "webUrl": "https://www.zerofila.com.br"
+        "image": "zerofila.png",
+        "webUrl": "https://zerofila.com.br"
+    },
+    {
+        "name": "Andre",
+        "country": "China",
+        "startupName": "Moshi",
+        "elevatorPitch": "Moshi is a start up building mobile apps, still in incubation mode. We have a 20mm USD funding within 6 months of operation.",
+        "image": "dummy.jpg",
+        "webUrl": "http://moshigroup.com"
+    },
+    {
+        "name": "Kudakwashe Khuleya",
+        "country": "Zimbabwe",
+        "startupName": "AfriSpiration",
+        "elevatorPitch": "AfriSpiration is an online platform that allows Africana nd African identifying entrepreneurs around the globe to connect, collaborate and network",
+        "image": "dummy.jpg",
+        "webUrl": "http://afrispiration.com"
     }
 ]
