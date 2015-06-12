@@ -132,7 +132,7 @@
         "country": "China",
         "startupName": "Moshi",
         "elevatorPitch": "Moshi is a start up building mobile apps, still in incubation mode. We have a 20mm USD funding within 6 months of operation.",
-        "image": "dummy.jpg",
+        "image": "moshi.jpg",
         "webUrl": "http://moshigroup.com"
     },
     {
@@ -140,7 +140,15 @@
         "country": "Zimbabwe",
         "startupName": "AfriSpiration",
         "elevatorPitch": "AfriSpiration is an online platform that allows Africana nd African identifying entrepreneurs around the globe to connect, collaborate and network",
-        "image": "dummy.jpg",
+        "image": "afri.jpg",
         "webUrl": "http://afrispiration.com"
+    },
+    {
+        "name": "Andreas Beck",
+        "country": "Germany",
+        "startupName": "free2fitness",
+        "elevatorPitch": "free2fitness wants to solve the problem that many people lack the drive to be active enough for a healthy lifestyle. Therefore free2fitness creates a mobile gaming app, which creates this drive though fun and teaches its player to use their own bodyweight for exercising.",
+        "image": "free2fitness.jpg",
+        "webUrl": "http://www.free2fitness.com/"
     }
 ]
